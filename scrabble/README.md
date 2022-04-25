@@ -1,7 +1,5 @@
 # Word Game (Scrabble)
 
-![scrabble](./scrabble.png)
-
 ## Background
 This is a game where players attempt to create words from a set of letter tiles.
 Different letters have different points allocated to them.
